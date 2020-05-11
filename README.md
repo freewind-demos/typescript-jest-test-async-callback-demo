@@ -1,7 +1,7 @@
 TypeScript Jest Test Async Callback Demo
 ===========================
 
-使用typescript就需要在`jest.config.js`中使用`ts-jest`作为`preset`
+主要是利用了`done`
 
 ```
 npm install
